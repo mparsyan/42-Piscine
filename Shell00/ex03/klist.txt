@@ -1,0 +1,5 @@
+Credentials cache: API:794C172D-6BBB-4AA4-B8EB-526B3E20C66D
+        Principal: mparsyan@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Oct 16 12:46:09 2021  Oct 16 22:46:09 2021  krbtgt/42YEREVAN.AM@42YEREVAN.AM
